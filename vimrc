@@ -9,7 +9,7 @@ imap <c-j> <Down>
 imap <c-k> <Up>
 imap <c-d> <Del>
 
-imap ()<space> ()<space
+imap ()<space> ()<space>
 imap (); ();
 imap ()<CR> ()<CR>
 imap []<space> []<space>
