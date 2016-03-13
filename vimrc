@@ -15,9 +15,10 @@ imap ()<CR> ()<CR>
 imap []<space> []<space>
 imap [] []<Left>
 imap () ()<Left>
-imap {} {}<Left><CR><CR><Up><Tab>
+imap {} {}<Left>
 imap <> <><Left>
 imap "" ""<Left>
+imap $$ $$<Left>
 
 syntax on
 set nocompatible
