@@ -1,6 +1,4 @@
-set cursorline
-hi CursorLine cterm=NONE ctermbg=lightgray ctermfg=black
-hi CursorColumn cterm=NONE ctermbg=lightgray ctermfg=black
+set backspace=indent,eol,start
 
 inoremap jk <ESC>
 imap <c-h> <Left>
